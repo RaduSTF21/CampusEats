@@ -1,16 +1,24 @@
 # CampusEats
 
-## Overview
-**CampusEats** is a software system for managing cafeteria orders at a university.  
-It allows students to order food, cafeteria staff to process orders, and administrators to monitor menus and reports.  
-The system also integrates a payment module via **Stripe**.
+CampusEats is a full-stack university cafeteria ordering platform. Students can browse menus and place orders, cafeteria staff can manage order fulfilment, and administrators can manage menus and reporting.
 
----
+## Highlights
 
-## Team Members
+- Student-facing food ordering flow
+- Cafeteria order management
+- Administrative menu and reporting tools
+- Stripe payment integration
+- Separate backend and frontend applications
+
+## Repository structure
+
+- `backend/` - server-side application and API
+- `frontend/` - client application
+- `CampusEats.Tests/` - automated tests
+
+## Contributors
+
 - Florea Robert-Andrei
 - Caprian Tudor
 - Radu Stefan Alexandru
 - Sandu Costin-Casian
-
----
